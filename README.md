@@ -1,2 +1,2 @@
 # crazyj
-awesome test repo
+This is an amazing test project.
